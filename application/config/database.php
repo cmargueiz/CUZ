@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
+	'hostname' => 'localhost:3308',
+	'username' => 'cmargueiz',
 	'password' => 'Contabilidad23',
 	'database' => 'Contabilidad',
 	'dbdriver' => 'mysqli',
