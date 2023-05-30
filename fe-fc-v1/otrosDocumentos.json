@@ -1,0 +1,13 @@
+{
+    "otrosDocumentos": {
+        "codDocAsociado": 0,
+        "descDocumento": "",
+        "detalleDocumento": "",
+        "medico": {
+            "nombre": "",
+            "nit": "",
+            "docIdentificacion": "",
+            "tipoServicio": 0
+        }
+    }
+}

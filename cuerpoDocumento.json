@@ -1,0 +1,47 @@
+{
+    "identificacion":{
+        "version":0,
+        "ambiente":"",
+        "tipoDte":"",
+        "numeroControl":"",
+        "codigoGeneracion":"",
+        "tipoModelo":0,
+        "tipoOperacion":0,
+        "tipoContingencia":0,
+        "motivoCotin":0,
+        "fechaEmi":"",
+        "horaEmi":"",
+        "tipoModena":""
+    },
+    "documentoRelacionado":[
+        {
+            "tipoDocumento":"",
+            "tipoGeneracion":0,
+            "numeroDocumento":"",
+            "fechaEmision":"",
+        }
+    ],
+    
+    "cuerpoDocumento":[
+        {
+            "numItem":1,
+            "tipoItem":1,
+            "numeroDocumento":"",
+            "cantidad":1,
+            "codigo":"",
+            "codigoTributo":"",
+            "uniMedida":"",
+            "descripcion":"",
+            "precioUni":0,
+            "montoDescu":0,
+            "ventaNoSuj":0,
+            "ventaExenta":0,
+            "ventaGravada":0,
+            "tributos":[],
+            "psv":0,
+            "noGravado":0,
+            "ivaItem":0
+        }
+    ],
+    "apendice":null
+}
