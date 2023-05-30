@@ -1,0 +1,18 @@
+{
+    "receptor": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    }
+}

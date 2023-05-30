@@ -1,0 +1,13 @@
+{
+    "resumen": {
+        "valorTotal": 0,
+        "totalLetras": "",
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": ""
+            }
+        ]
+    }
+}

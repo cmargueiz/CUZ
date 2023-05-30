@@ -1,0 +1,13 @@
+{
+    "cuerpoDocumento": {
+        "numItem": "",
+        "tipoItem": "",
+        "cantidad": "",
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "precioUni": 0,
+        "montoDescu": 0,
+        "compra": 0
+    }
+}

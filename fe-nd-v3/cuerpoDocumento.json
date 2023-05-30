@@ -1,0 +1,20 @@
+{
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoItem": 0,
+        "numeroDocumento": "",
+        "cantidad": 0,
+        "codigo": "",
+        "codTributo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "precioUni": 0,
+        "montoDescu": 0,
+        "ventaNoSuj": 0,
+        "ventaExenta": 0,
+        "ventaGravada": 0,
+        "tributos": [
+            ""
+        ]
+    }
+}

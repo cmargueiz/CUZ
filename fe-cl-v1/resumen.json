@@ -1,0 +1,21 @@
+{
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 0,
+        "totalExportacion": 0,
+        "subTotalVentas": 0,
+        "tributos": [
+            {
+                "codigo": "",
+                "descripcion": "",
+                "valor": 0
+            }
+        ],
+        "montoTotalOperacion": 0,
+        "ivaPerci": 0,
+        "total": 0,
+        "totalLetras": "",
+        "condicionOperacion": 0
+    }
+}

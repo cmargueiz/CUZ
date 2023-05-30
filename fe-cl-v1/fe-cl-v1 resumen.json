@@ -1,0 +1,96 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": ""
+    },
+    "receptor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDte": "",
+        "tipoGeneracion": 0,
+        "numeroDocumento": "",
+        "fechaGeneracion": "",
+        "ventaNoSuj": 0,
+        "ventaExenta": 0,
+        "ventaGravada": 0,
+        "exportaciones": 0,
+        "tributos": [
+            ""
+        ],
+        "ivaItem": 0,
+        "obsItem": ""
+    },
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 0,
+        "totalExportacion": 0,
+        "subTotalVentas": 0,
+        "tributos": [
+            {
+                "codigo": "",
+                "descripcion": "",
+                "valor": 0
+            }
+        ],
+        "montoTotalOperacion": 0,
+        "ivaPerci": 0,
+        "total": 0,
+        "totalLetras": "",
+        "condicionOperacion": 0
+    },
+    "extension": {
+        "nombEntrega": "",
+        "docuEntrega": "",
+        "nombRecibe": "",
+        "docuRecibe": "",
+        "observaciones": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

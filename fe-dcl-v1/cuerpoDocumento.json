@@ -1,0 +1,21 @@
+{
+    "cuerpoDocumento": {
+        "periodoLiquidacionFechaInicio": "",
+        "periodoLiquidacionFechaFin": "",
+        "codLiquidacion": "",
+        "cantidadDoc": 0,
+        "valorOperaciones": 0,
+        "montoSinPercepcion": 0,
+        "descripSinPercepcion": "",
+        "subTotal": 0,
+        "iva": 0,
+        "montoSujetoPercepcion": 0,
+        "ivaPercibido": 0,
+        "comision": 0,
+        "porcentComision": "",
+        "ivaComision": 0,
+        "liquidoApagar": 0,
+        "totalLetras": "",
+        "observaciones": ""
+    }
+}

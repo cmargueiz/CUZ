@@ -1,0 +1,17 @@
+{
+    "receptor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    }
+}

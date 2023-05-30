@@ -1,0 +1,80 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "tipoContingencia": null,
+        "motivoContin": null,
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "codigoMH": "",
+        "codigo": "",
+        "puntoVentaMH": "",
+        "puntoVenta": "",
+        "correo": ""
+    },
+    "receptor": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDte": "",
+        "tipoDoc": 0,
+        "numDocumento": "",
+        "fechaEmision": "",
+        "montoSujetoGrav": 0,
+        "codigoRetencionMH": "",
+        "ivaRetenido": 0,
+        "descripcion": ""
+    },
+    "resumen": {
+        "totalSujetoRetencion": 0,
+        "totalIVAretenido": 0,
+        "totalIVAretenidoLetras": ""
+    },
+    "extension": {
+        "nombEntrega": "",
+        "docuEntrega": "",
+        "nombRecibe": "",
+        "docuRecibe": "",
+        "observaciones": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

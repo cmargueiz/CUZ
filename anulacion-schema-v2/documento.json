@@ -1,0 +1,16 @@
+{
+    "documento": {
+        "tipoDte": "",
+        "codigoGeneracion": "",
+        "selloRecibido": "",
+        "numeroControl": "",
+        "fecEmi": "",
+        "montoIva": 0,
+        "codigoGeneracionR": "",
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombre": "",
+        "telefono": "",
+        "correo": ""
+    }
+}

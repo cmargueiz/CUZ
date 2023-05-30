@@ -1,0 +1,20 @@
+{
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": "",
+        "correo": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "telefono": "",
+        "correo": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "codigoMH": "",
+        "codigo": "",
+        "puntoVentaMH": "",
+        "puntoVentaContri": ""
+    }
+}

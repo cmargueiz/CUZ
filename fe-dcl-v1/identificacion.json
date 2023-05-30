@@ -1,0 +1,14 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDonacion": 0,
+        "cantidad": 0,
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "depreciacion": 0,
+        "valorUni": 0,
+        "valor": 0
+    }
+}

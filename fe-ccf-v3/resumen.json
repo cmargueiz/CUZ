@@ -1,0 +1,40 @@
+{
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 0,
+        "subTotalVentas": 0,
+        "descuNoSuj": 0,
+        "descuExenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "tributos": [
+            {
+                "codigo": "",
+                "descripcion": "",
+                "valor": 0
+            }
+        ],
+        "subTotal": 0,
+        "ivaPerci1": 0,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "montoTotalOperacion": 0,
+        "totalNoGravado": 0,
+        "totalPagar": 0,
+        "totalLetras": "",
+        "saldoFavor": 0,
+        "condicionOperacion": 0,
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": "",
+                "plazo": "",
+                "periodo": 0
+            }
+        ],
+        "numPagoElectronico": ""
+    }
+}

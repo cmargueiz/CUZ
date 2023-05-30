@@ -1,0 +1,45 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "codigoGeneracion": "",
+        "fecAnula": "",
+        "horAnula": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nombre": "",
+        "tipoEstablecimiento": "",
+        "nomEstablecimiento": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "documento": {
+        "tipoDte": "",
+        "codigoGeneracion": "",
+        "selloRecibido": "",
+        "numeroControl": "",
+        "fecEmi": "",
+        "montoIva": 0,
+        "codigoGeneracionR": "",
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombre": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "motivo": {
+        "tipoAnulacion": 0,
+        "motivoAnulacion": "",
+        "nombreResponsable": "",
+        "tipDocResponsable": "",
+        "numDocResponsable": "",
+        "nombreSolicita": "",
+        "tipDocSolicita": "",
+        "numDocSolicita": ""
+    }
+}

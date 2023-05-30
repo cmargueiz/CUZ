@@ -1,0 +1,16 @@
+{
+    "sujetoExcluido": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    }
+}

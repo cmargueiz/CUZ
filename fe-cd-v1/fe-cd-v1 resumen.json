@@ -1,0 +1,80 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "donatario": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": ""
+    },
+    "donante": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": null,
+        "telefono": null,
+        "correo": null,
+        "codDomiciliado": 0,
+        "codPais": ""
+    },
+    "otrosDocumentos": {
+        "codDocAsociado": 0,
+        "descDocumento": "",
+        "detalleDocumento": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDonacion": 0,
+        "cantidad": 0,
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "depreciacion": 0,
+        "valorUni": 0,
+        "valor": 0
+    },
+    "resumen": {
+        "valorTotal": 0,
+        "totalLetras": "",
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": ""
+            }
+        ]
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

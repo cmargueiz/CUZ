@@ -1,0 +1,14 @@
+{
+    "emisor": {
+        "nit": "",
+        "nombre": "",
+        "nombreResponsable": "",
+        "tipoDocResponsable": "",
+        "numeroDocResponsable": "",
+        "tipoEstablecimiento": "",
+        "codEstableMH": "",
+        "codPuntoVenta": "",
+        "telefono": "",
+        "correo": ""
+    }
+}

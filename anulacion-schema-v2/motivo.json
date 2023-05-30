@@ -1,0 +1,12 @@
+{
+    "motivo": {
+        "tipoAnulacion": 0,
+        "motivoAnulacion": "",
+        "nombreResponsable": "",
+        "tipDocResponsable": "",
+        "numDocResponsable": "",
+        "nombreSolicita": "",
+        "tipDocSolicita": "",
+        "numDocSolicita": ""
+    }
+}

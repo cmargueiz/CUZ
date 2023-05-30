@@ -1,0 +1,34 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "codigoGeneracion": "",
+        "fTransmision": "",
+        "hTransmision": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nombre": "",
+        "nombreResponsable": "",
+        "tipoDocResponsable": "",
+        "numeroDocResponsable": "",
+        "tipoEstablecimiento": "",
+        "codEstableMH": "",
+        "codPuntoVenta": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "detalleDTE": {
+        "noItem": 0,
+        "codigoGeneracion": "",
+        "tipoDoc": ""
+    },
+    "motivo": {
+        "fInicio": "",
+        "fFin": "",
+        "hInicio": "",
+        "hFin": "",
+        "tipoContingencia": 0,
+        "motivoContingencia": ""
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "donante": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": null,
+        "telefono": null,
+        "correo": null,
+        "codDomiciliado": 0,
+        "codPais": ""
+    }
+}

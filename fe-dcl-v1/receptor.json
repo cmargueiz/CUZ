@@ -1,0 +1,20 @@
+{
+    "receptor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codigoMH": "",
+        "puntoVentaMH": ""
+    }
+}

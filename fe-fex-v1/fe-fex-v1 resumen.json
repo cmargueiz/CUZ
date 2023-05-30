@@ -1,0 +1,110 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "tipoContingencia": 0,
+        "motivoContigencia": "",
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": "",
+        "tipoItemExpor": 0,
+        "recintoFiscal": "",
+        "regimen": ""
+    },
+    "receptor": {
+        "nombre": "",
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombreComercial": "",
+        "codPais": "",
+        "nombrePais": "",
+        "complemento": "",
+        "tipoPersona": 0,
+        "descActividad": "",
+        "telefono": "",
+        "correo": ""
+    },
+    "otrosDocumentos": {
+        "codDocAsociado": 0,
+        "descDocumento": "",
+        "detalleDocumento": "",
+        "placaTrans": "",
+        "modoTransp": 0,
+        "numConductor": "",
+        "nombreConductor": ""
+    },
+    "ventaTercero": {
+        "nit": "",
+        "nombre": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "cantidad": 0,
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "precioUni": 0,
+        "montoDescu": 0,
+        "ventaGravada": 0,
+        "tributos": [
+            ""
+        ],
+        "noGravado": 0
+    },
+    "resumen": {
+        "totalGravada": 0,
+        "descuento": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "seguro": 0,
+        "flete": 0,
+        "montoTotalOperacion": 0,
+        "totalNoGravado": 0,
+        "totalPagar": 0,
+        "totalLetras": "",
+        "condicionOperacion": 0,
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": "",
+                "plazo": "",
+                "periodo": 0
+            }
+        ],
+        "codIncoterms": "",
+        "descIncoterms": "",
+        "numPagoElectronico": "",
+        "observaciones": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

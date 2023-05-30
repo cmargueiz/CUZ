@@ -1,0 +1,85 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "tipoContingencia": 0,
+        "motivoContin": "",
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": "",
+        "correo": ""
+    },
+    "sujetoExcluido": {
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": "",
+        "tipoItem": "",
+        "cantidad": "",
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "precioUni": 0,
+        "montoDescu": 0,
+        "compra": 0
+    },
+    "resumen": {
+        "totalCompra": 0,
+        "descu": 0,
+        "totalDescu": 0,
+        "subTotal": 0,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "totalPagar": 0,
+        "totalLetras": "",
+        "condicionOperacion": 0,
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": "",
+                "plazo": "",
+                "periodo": 0
+            }
+        ],
+        "observaciones": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

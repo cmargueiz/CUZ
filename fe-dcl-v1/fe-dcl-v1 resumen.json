@@ -1,0 +1,81 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "telefono": "",
+        "correo": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "codigoMH": "",
+        "codigo": "",
+        "puntoVentaMH": "",
+        "puntoVentaContri": ""
+    },
+    "receptor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codigoMH": "",
+        "puntoVentaMH": ""
+    },
+    "cuerpoDocumento": {
+        "periodoLiquidacionFechaInicio": "",
+        "periodoLiquidacionFechaFin": "",
+        "codLiquidacion": "",
+        "cantidadDoc": 0,
+        "valorOperaciones": 0,
+        "montoSinPercepcion": 0,
+        "descripSinPercepcion": "",
+        "subTotal": 0,
+        "iva": 0,
+        "montoSujetoPercepcion": 0,
+        "ivaPercibido": 0,
+        "comision": 0,
+        "porcentComision": "",
+        "ivaComision": 0,
+        "liquidoApagar": 0,
+        "totalLetras": "",
+        "observaciones": ""
+    },
+    "extension": {
+        "nombEntrega": "",
+        "docuEntrega": "",
+        "codEmpleado": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

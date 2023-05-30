@@ -1,0 +1,18 @@
+{
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDte": "",
+        "tipoGeneracion": 0,
+        "numeroDocumento": "",
+        "fechaGeneracion": "",
+        "ventaNoSuj": 0,
+        "ventaExenta": 0,
+        "ventaGravada": 0,
+        "exportaciones": 0,
+        "tributos": [
+            ""
+        ],
+        "ivaItem": 0,
+        "obsItem": ""
+    }
+}

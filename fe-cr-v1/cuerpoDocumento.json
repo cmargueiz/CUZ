@@ -1,0 +1,13 @@
+{
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoDte": "",
+        "tipoDoc": 0,
+        "numDocumento": "",
+        "fechaEmision": "",
+        "montoSujetoGrav": 0,
+        "codigoRetencionMH": "",
+        "ivaRetenido": 0,
+        "descripcion": ""
+    }
+}

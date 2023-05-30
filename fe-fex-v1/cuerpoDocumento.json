@@ -1,0 +1,16 @@
+{
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "cantidad": 0,
+        "codigo": "",
+        "uniMedida": 0,
+        "descripcion": "",
+        "precioUni": 0,
+        "montoDescu": 0,
+        "ventaGravada": 0,
+        "tributos": [
+            ""
+        ],
+        "noGravado": 0
+    }
+}

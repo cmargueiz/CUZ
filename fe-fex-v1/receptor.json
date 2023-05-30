@@ -1,0 +1,15 @@
+{
+    "receptor": {
+        "nombre": "",
+        "tipoDocumento": "",
+        "numDocumento": "",
+        "nombreComercial": "",
+        "codPais": "",
+        "nombrePais": "",
+        "complemento": "",
+        "tipoPersona": 0,
+        "descActividad": "",
+        "telefono": "",
+        "correo": ""
+    }
+}

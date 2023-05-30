@@ -1,0 +1,143 @@
+{
+    "identificacion": {
+        "version": 0,
+        "ambiente": "",
+        "tipoDte": "",
+        "numeroControl": "",
+        "codigoGeneracion": "",
+        "tipoModelo": 0,
+        "tipoOperacion": 0,
+        "tipoContingencia": 0,
+        "motivoContin": "",
+        "fecEmi": "",
+        "horEmi": "",
+        "tipoMoneda": ""
+    },
+    "documentoRelacionado": {
+        "tipoDocumento": "",
+        "tipoGeneracion": 0,
+        "numeroDocumento": "",
+        "fechaEmision": ""
+    },
+    "emisor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "tipoEstablecimiento": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": "",
+        "codEstableMH": "",
+        "codEstable": "",
+        "codPuntoVentaMH": "",
+        "codPuntoVenta": ""
+    },
+    "receptor": {
+        "nit": "",
+        "nrc": "",
+        "nombre": "",
+        "codActividad": "",
+        "descActividad": "",
+        "nombreComercial": "",
+        "direccion": {
+            "departamento": "",
+            "municipio": "",
+            "complemento": ""
+        },
+        "telefono": "",
+        "correo": ""
+    },
+    "otrosDocumentos": {
+        "codDocAsociado": 0,
+        "descDocumento": "",
+        "detalleDocumento": "",
+        "medico": {
+            "nombre": "",
+            "nit": "",
+            "docIdentificacion": "",
+            "tipoServicio": 0
+        }
+    },
+    "ventaTercero": {
+        "nit": "",
+        "nombre": ""
+    },
+    "cuerpoDocumento": {
+        "numItem": 0,
+        "tipoItem": 0,
+        "numeroDocumento": "",
+        "codigo": "",
+        "codTributo": "",
+        "descripcion": "",
+        "cantidad": 0,
+        "uniMedida": 0,
+        "precioUni": 0,
+        "montoDescu": 0,
+        "ventaNoSuj": 0,
+        "ventaExenta": 0,
+        "ventaGravada": 0,
+        "tributos": [
+            ""
+        ],
+        "psv": 0,
+        "noGravado": 0
+    },
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 0,
+        "subTotalVentas": 0,
+        "descuNoSuj": 0,
+        "descuExenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "tributos": [
+            {
+                "codigo": "",
+                "descripcion": "",
+                "valor": 0
+            }
+        ],
+        "subTotal": 0,
+        "ivaPerci1": 0,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "montoTotalOperacion": 0,
+        "totalNoGravado": 0,
+        "totalPagar": 0,
+        "totalLetras": "",
+        "saldoFavor": 0,
+        "condicionOperacion": 0,
+        "pagos": [
+            {
+                "codigo": "",
+                "montoPago": 0,
+                "referencia": "",
+                "plazo": "",
+                "periodo": 0
+            }
+        ],
+        "numPagoElectronico": ""
+    },
+    "extension": {
+        "nombEntrega": "",
+        "docuEntrega": "",
+        "nombRecibe": "",
+        "docuRecibe": "",
+        "observaciones": "",
+        "placaVehiculo": ""
+    },
+    "apendice": {
+        "campo": "",
+        "etiqueta": "",
+        "valor": ""
+    }
+}

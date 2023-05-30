@@ -1,0 +1,23 @@
+{
+    "resumen": {
+        "totalNoSuj": 0,
+        "totalExenta": 0,
+        "totalGravada": 0,
+        "subTotalVentas": 0,
+        "descuNoSuj": 0,
+        "descuExenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "totalDescu": 0,
+        "tributos": [
+            {
+                "codigo": "",
+                "descripcion": "",
+                "valor": 0
+            }
+        ],
+        "subTotal": 0,
+        "montoTotalOperacion": 0,
+        "totalLetras": ""
+    }
+}
